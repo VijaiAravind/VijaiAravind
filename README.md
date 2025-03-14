@@ -33,7 +33,7 @@
 📌 Transformed **5,500+ rows** into a **dynamic** dashboard with KPI visuals & slicers.  
 📌 Boosted business efficiency by **20%** using insightful reports.  
 
-🌟 **[Airbnb Data Analysis (Python)](https://github.com/yourusername/airbnb-analysis)**  
+🌟 **[Airbnb Data Analysis (Python)](https://github.com/yourusername/airbnb-analysis)** 
 📌 Processed **20,765+ listings**, reducing **null values by 99%**.  
 📌 Visualized pricing trends using **heatmaps, bar charts & scatter plots**.  
 
