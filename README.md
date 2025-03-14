@@ -38,7 +38,7 @@
 📌 Visualized pricing trends using **heatmaps, bar charts & scatter plots**.  
 
 
-💾 **More Projects?** Check out my **[GitHub Repositories](https://github.com/yourusername?tab=repositories)**!  
+💾 **More Projects?** Check out my **[GitHub Repositories](https://github.com/VijaiAravind?tab=repositories)**!  
 
 ---
 
