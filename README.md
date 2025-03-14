@@ -52,7 +52,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 
-### **☁ Cloud & Big Data**  
+### **☁ Cloud Provider**  
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
 ![ETL](https://img.shields.io/badge/ETL-005571?style=flat&logo=dataiku&logoColor=white)  
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-007ACC?style=flat&logo=microsoft&logoColor=white)  
