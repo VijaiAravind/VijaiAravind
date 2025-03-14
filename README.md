@@ -8,10 +8,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-%23F2C811.svg?style=flat&logo=excel&logoColor=blue">
   <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Tableau-%230056D2.svg?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white">
 </p>
 
 ---
