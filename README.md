@@ -43,20 +43,20 @@
 
 ## **🛠️ Tech Stack & Skills**  
 ### **📊 Data Analytics & Visualization**  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-0056D2?style=flat&logo=Tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
 ### **💻 Programming & Databases**  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-013243?style=flat&logo=seaborn&logoColor=white) 
 
 ### **☁ Cloud Provider**  
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
-![ETL](https://img.shields.io/badge/ETL-005571?style=flat&logo=dataiku&logoColor=white)  
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-007ACC?style=flat&logo=microsoft&logoColor=white)  
 
 ---
 
@@ -64,8 +64,8 @@
 💬 If you're passionate about **data analytics**, let’s connect!  
 📩 **Reach out to me via:**  
 <p align="center">
-<a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github"></a>
+<a href="https://www.linkedin.com/in/vijai-aravind-s-70233a26a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfJdG5%2F7WSzy%2BS4pG4QoIBw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/VijaiAravind"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github"></a>
 <a href="mailto:vijaiaravind.sva@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
 </p>
 
