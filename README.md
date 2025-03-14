@@ -6,7 +6,7 @@
 <h3 align="center">👋 Hey there, I'm <b>Vijai Aravind S</b> – A Data Analyst turning raw data into golden insights! ✨</h3>  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft Excel-%23F2C811.svg?style=flat&logo=microsoft excel&logoColor=blue">
+  <img src="https://img.shields.io/badge/Microsoft Excel-%23F2C811.svg?style=flat&logo=microsoft excel&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-%230056D2.svg?style=flat&logo=tableau&logoColor=white">
