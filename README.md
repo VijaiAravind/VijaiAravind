@@ -53,8 +53,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=matplotlib&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-013243?style=flat&logo=seaborn&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiNGNkY2RjYiIGQ9Ik00NzIuMyAyNDAuNWMwIDIwNC44LTY2LjYgMjEwLjYtMjY2LjQgMjEwLjZTMTk5LjUgNDQ1LjMgMTk5LjUgMjQwLjVjMC0yMDQuNiA2Ni42LTIxMC40IDI2Ni40LTIxMC40czI2Ni40IDUuOCAyNjYuNCAyMTAuNHoiLz48L3N2Zz4=)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C91E6?style=flat&logo=plotly&logoColor=white)  
 
 ### **☁ Cloud Provider**  
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
