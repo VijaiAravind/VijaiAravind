@@ -59,14 +59,6 @@
 
 ---
 
-## **📊 GitHub Stats & Activity**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%">
-</p>
-
----
-
 ## **📣 Let's Connect!**  
 💬 If you're passionate about **data analytics**, let’s connect!  
 📩 **Reach out to me via:**  
