@@ -57,7 +57,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C91E6?style=flat&logo=plotly&logoColor=white)  
 
 ### **☁ Cloud Provider**  
-![AWS](https://img.shields.io/badge/Aws%20AWS-FF9900?style=flat&logo=aws&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=orange) 
 
 ---
 
