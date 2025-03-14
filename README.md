@@ -24,7 +24,7 @@
 
 ---
 
-## **🔥 My Best Projects**  
+## **🔥 My Projects**  
 🌟 **[Amazon Sales Analysis (SQL)](https://github.com/yourusername/amazon-sales-analysis)**  
 📌 Cleaned **20,000+ records** to ensure **99% data accuracy**.  
 📌 Designed optimized **SQL queries (Joins, CTEs, Window Functions)** for deep revenue insights.  
