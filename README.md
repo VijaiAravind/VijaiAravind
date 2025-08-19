@@ -42,19 +42,19 @@
 
 ---
 
-## **🛠️ Tech Stack & Skills**  
-### **📊 Data Analytics & Visualization**  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-0056D2?style=flat&logo=Tableau&logoColor=white)  
-
-### **💻 Programming & Databases**  
+## **🛠️ Tech Stack**  
+### **💻 Programming Languages & Libraries**  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiNGNkY2RjYiIGQ9Ik00NzIuMyAyNDAuNWMwIDIwNC44LTY2LjYgMjEwLjYtMjY2LjQgMjEwLjZTMTk5LjUgNDQ1LjMgMTk5LjUgMjQwLjVjMC0yMDQuNiA2Ni42LTIxMC40IDI2Ni40LTIxMC40czI2Ni40IDUuOCAyNjYuNCAyMTAuNHoiLz48L3N2Zz4=)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C91E6?style=flat&logo=plotly&logoColor=white)  
+
+### **📊 Analytic tools & Visualization**  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-0056D2?style=flat&logo=Tableau&logoColor=white)  
 
 ### **☁ Cloud Provider**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=orange) 
