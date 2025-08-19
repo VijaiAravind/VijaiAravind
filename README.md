@@ -5,7 +5,7 @@
 
 <h3 align="center">
 👋 Hey there, I'm <b>Vijai Aravind S</b> – an Associate Data Analyst turning raw data into golden insights! ✨<br>
-📚 Currently expanding my expertise in <b>Data Science</b> and 🤖<b>Machine Learning</b> to build predictive models and shape data-driven futures📈.
+📚 Currently expanding my expertise in <b>Data Science</b> and 🤖<b>Machine Learning</b> to build predictive models and shape data-driven futures📈. 
 </h3>
  
 
