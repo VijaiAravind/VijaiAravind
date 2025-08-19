@@ -10,7 +10,7 @@
  
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Microsoft Excel-%23F2C811.svg?style=flat&logo=microsoft excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-%230056D2.svg?style=flat&logo=tableau&logoColor=white">
