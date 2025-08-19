@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-%230056D2.svg?style=flat&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-3C91E6?style=flat&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white">
 </p>
 
