@@ -26,10 +26,12 @@
 ---
  
 ## **🚀 About Me**  
-💻 Done my Bachelors in Computer Science Engineering.
-💼 Entrepreneur turned into Data Analyst and Data Science Field. 
-🔍 Passionate about uncovering hidden stories in data through **SQL, Python, BI tools, Scikit-learn and Machine Learning models**.  
-📊 Love working with large datasets and optimizing dashboards for actionable insights and predict future insights. 
+
+💻 Graduated with a **Bachelor’s in Computer Science Engineering**.  
+💼 Entrepreneur turned **Data Analyst**, now growing in the **Data Science** field.  
+🔍 Passionate about uncovering hidden stories in data using **SQL, Python, BI tools, Scikit-learn, and Machine Learning models**.  
+📊 Enthusiastic about working with large datasets, building predictive models, and optimizing dashboards for **actionable insights**.  
+
 
 💡 **"Data is the new oil, and I refine it into valuable insights!"**  
 
