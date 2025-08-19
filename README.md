@@ -10,17 +10,17 @@
  
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black">
-  <img src="https://img.shields.io/badge/Tableau-%230056D2.svg?style=flat&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-3C91E6?style=flat&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-batch&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-batch&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-batch&logo=power-bi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-%230056D2.svg?style=for-the-batch&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-batch&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-batch&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-batch&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-batch&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-3C91E6?style=for-the-batch&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-batch&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-batch&logo=amazonaws&logoColor=white">
 </p>
 
 ---
