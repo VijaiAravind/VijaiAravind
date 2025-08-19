@@ -26,8 +26,10 @@
 ---
 
 ## **🚀 About Me**  
-🔍 Passionate about **uncovering hidden stories** in data through **SQL, Python, and BI tools**.  
-📊 Love working with **large datasets (20,000+ records)** and **optimizing dashboards** for actionable insights.  
+💻 Done my Bachelors in Computer Science Engineering.
+💼 Entrepreneur turned into Data Analyst and Data Science Field. 
+🔍 Passionate about uncovering hidden stories in data through **SQL, Python, BI tools, Scikit-learn and Machine Learning models**.  
+📊 Love working with large datasets and optimizing dashboards for actionable insights and predict future insights. 
 
 💡 **"Data is the new oil, and I refine it into valuable insights!"**  
 
