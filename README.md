@@ -63,6 +63,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiNGNkY2RjYiIGQ9Ik00NzIuMyAyNDAuNWMwIDIwNC44LTY2LjYgMjEwLjYtMjY2LjQgMjEwLjZTMTk5LjUgNDQ1LjMgMTk5LjUgMjQwLjVjMC0yMDQuNiA2Ni42LTIxMC40IDI2Ni40LTIxMC40czI2Ni40IDUuOCAyNjYuNCAyMTAuNHoiLz48L3N2Zz4=)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C91E6?style=flat&logo=plotly&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
 
 ### **📊 Analytic tools & Visualization**  
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
