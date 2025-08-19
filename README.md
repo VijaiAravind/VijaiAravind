@@ -3,7 +3,11 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px">
 </p>  
 
-<h3 align="center">👋 Hey there, I'm <b>Vijai Aravind S</b> – A Data Analyst turning raw data into golden insights! ✨</h3>  
+<h3 align="center">
+👋 Hey there, I'm <b>Vijai Aravind S</b> – an Associate Data Analyst turning raw data into golden insights! ✨<br>
+📚 Currently expanding my expertise in <b>Data Science</b> and 🤖<b>Machine Learning</b> to build predictive models and shape data-driven futures📈.
+</h3>
+ 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft Excel-%23F2C811.svg?style=flat&logo=microsoft excel&logoColor=white">
