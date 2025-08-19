@@ -24,7 +24,7 @@
 </p>
 
 ---
-
+ 
 ## **🚀 About Me**  
 💻 Done my Bachelors in Computer Science Engineering.
 💼 Entrepreneur turned into Data Analyst and Data Science Field. 
