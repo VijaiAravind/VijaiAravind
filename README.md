@@ -43,7 +43,9 @@ Google Advanced Data Analytics Certificate by coursera [Certificate link](https:
 
 ### **Capstone Project**
 **Providing data-driven suggestions for HR (Salifort Motors)**
+
 📌 Evaluated the PACE (Plan,Analyze,Construct,Execute) strategy for understand the workflow of the project.
+
 📌 Conducted initial EDA, data cleaning and gather descriptive statistics about the data. 
 📌 Constructed ML models such as **Logistic Regression and Tree-based model(Decision tree,Random forest,XGBoost)**. 
 📌 Built models to compare the metrics such as **Accuracy,Precision,Recall,F1-score,AUC score** to find out best model for this project. 
