@@ -41,20 +41,15 @@
 
 Google Advanced Data Analytics Certificate by coursera [Certificate link](https://www.coursera.org/account/accomplishments/professional-cert/FQFOX6XNNWFE)
 
-### **Capstone Project**
-**Providing data-driven suggestions for HR (Salifort Motors)**
+### **Capstone Project**  
+**Providing data-driven suggestions for HR (Salifort Motors)**  
 
-📌 Evaluated the PACE (Plan,Analyze,Construct,Execute) strategy for understand the workflow of the project.
-
-📌 Conducted initial EDA, data cleaning and gather descriptive statistics about the data. 
-
-📌 Constructed ML models such as **Logistic Regression and Tree-based model(Decision tree,Random forest,XGBoost)**. 
-
-📌 Built models to compare the metrics such as **Accuracy,Precision,Recall,F1-score,AUC score** to find out best model for this project. 
-
-📌 Logistic Regression model achieved **Accuracy of 83%,Precision of 80%,Recall of 90.4%,f1-score of 80%** on the test set. 
-
-📌 In tree-based model it achieved  **Accuracy of 96.2%,Precision of 87%,Recall of 90.4%,f1-score of 88.7% and AUC score of 93.8%** on test set.
+📌 Evaluated the PACE (Plan, Analyze, Construct, Execute) strategy to understand the workflow of the project.  
+📌 Conducted initial EDA, data cleaning, and gathered descriptive statistics about the data.  
+📌 Constructed ML models such as **Logistic Regression and Tree-based models (Decision Tree, Random Forest, XGBoost)**.  
+📌 Built models to compare metrics such as **Accuracy, Precision, Recall, F1-score, AUC score** to identify the best model.  
+📌 Logistic Regression model achieved **Accuracy of 83%, Precision of 80%, Recall of 90.4%, F1-score of 80%** on the test set.  
+📌 Tree-based models achieved **Accuracy of 96.2%, Precision of 87%, Recall of 90.4%, F1-score of 88.7%, and AUC score of 93.8%** on the test set.  
 
 ---
 
