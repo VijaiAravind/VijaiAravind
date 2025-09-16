@@ -39,7 +39,7 @@
 
 ## **🏅 Certification**
 
-Google Advanced Data Analytics Certificate [Certificate link](https://www.coursera.org/account/accomplishments/professional-cert/FQFOX6XNNWFE)
+Google Advanced Data Analytics Certificate by coursera [Certificate link](https://www.coursera.org/account/accomplishments/professional-cert/FQFOX6XNNWFE)
 
 ---
 
