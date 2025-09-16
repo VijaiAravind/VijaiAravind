@@ -41,6 +41,9 @@
 
 Google Advanced Data Analytics Certificate by coursera [Certificate link](https://www.coursera.org/account/accomplishments/professional-cert/FQFOX6XNNWFE)
 
+### ** Capstone Project**
+
+#### ** Providing data-driven suggestions for HR (Salifort Motors)**
 ---
 
 ## **🔥 My Projects**  
