@@ -50,6 +50,7 @@ Google Advanced Data Analytics Certificate by coursera [Certificate link](https:
 📌 Built models to compare the metrics such as Accuracy,Precision,Recall,F1-score,AUC score to find out best model for this project.
 📌 Logistic Regression model achieved Accuracy of 83%,Precision of 80%,Recall of 90.4%,f1-score of 80% on the test set.
 📌 In tree-based model it achieved Accuracy of 96.2%,Precision of 87%,Recall of 90.4%,f1-score of 88.7% and AUC score of 93.8% on test set.
+
 ---
 
 ## **🔥 My Projects**  
