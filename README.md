@@ -41,8 +41,7 @@
 
 Google Advanced Data Analytics Certificate by coursera [Certificate link](https://www.coursera.org/account/accomplishments/professional-cert/FQFOX6XNNWFE)
 
-## **Capstone Project**
-
+### **Capstone Project**
 ### **Providing data-driven suggestions for HR (Salifort Motors)**
 📌 Evaluated the PACE (Plan,Analyze,Construct,Execute) strategy for understand the workflow of the project. 
 📌 Conducted initial EDA, data cleaning and gather descriptive statistics about the data. 
