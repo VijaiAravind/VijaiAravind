@@ -37,6 +37,12 @@
 
 ---
 
+## **🏅 Certification**
+
+Google Advanced Data Analytics Certificate (https://www.coursera.org/account/accomplishments/professional-cert/FQFOX6XNNWFE)
+
+---
+
 ## **🔥 My Projects**  
 🌟 **[Amazon Sales Analysis (SQL)](https://github.com/yourusername/amazon-sales-analysis)**  
 📌 Cleaned **20,000+ records** to ensure **99% data accuracy**.  
