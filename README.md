@@ -54,7 +54,7 @@ Google Advanced Data Analytics Certificate by coursera [Certificate link](https:
 ---
 
 ## **🔥 My Projects & Case studies**  
-🌟 **[Amazon Sales Analysis (SQL)](https://github.com/yourusername/amazon-sales-analysis)**  
+🌟 **[Amazon Sales Analysis (SQL)](https://github.com/VijaiAravind/Amazon-sales-project-sql-)**  
 📌 Cleaned **20,000+ records** to ensure **99% data accuracy**.  
 📌 Designed optimized **SQL queries (Joins, CTEs, Window Functions)** for deep revenue insights.  
 
