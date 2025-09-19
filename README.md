@@ -58,7 +58,7 @@ Google Advanced Data Analytics Certificate by coursera [Certificate link](https:
 📌 Cleaned **20,000+ records** to ensure **99% data accuracy**.  
 📌 Designed optimized **SQL queries (Joins, CTEs, Window Functions)** for deep revenue insights.  
 
-🌟 **[Costco Sales Dashboard (Power BI)](https://github.com/yourusername/costco-sales-dashboard)**  
+🌟 **[Costco Sales Dashboard (Power BI)](https://github.com/VijaiAravind/Costco-Power-BI-Project)**  
 📌 Transformed **5,500+ rows** into a **dynamic** dashboard with KPI visuals & slicers.  
 📌 Boosted business efficiency by **20%** using insightful reports.  
 
